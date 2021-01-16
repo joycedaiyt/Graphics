@@ -1,5 +1,3 @@
-// Lab07v110.java
-// This is the 110 point version.
 // Joyce Dai
 // 10/22/2019
 // APCS, Mr. Robinson
@@ -11,7 +9,7 @@ import java.applet.*;
 import java.util.*; 
 																
 
-public class Lab07v110 extends Applet
+public class Pictureframe extends Applet
 {
 	public void init()
    {
